@@ -1,0 +1,96 @@
+.top{
+    border-radius: 20px;
+    display: flex;
+    border:  ridge;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 60%;
+    margin: auto;
+    padding: 10px;
+
+}
+.main{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.details{
+
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    border: 1px solid ;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    width: 50%;
+  
+  
+}
+.continue{
+    background-color: #1A0B41;
+    color: white;
+    height: 30px;
+
+}
+.option{
+    display: flex;
+    flex-direction: row;
+}
+
+.copyright{
+
+ align-content: center;
+ align-items: center;
+ justify-content: center;
+ padding: 10px;
+ justify-content: center;
+ width: fit-content;
+ align-self: center;
+}
+.twodivs{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  
+    width: 90vw;
+    margin: auto;
+}
+img{
+    height: 10rem;
+ 
+    
+}
+hr{
+    margin: 10px;
+}
+.ordersummarry{
+    padding: 10px;
+    margin: 10px;
+   
+}
+.cartdetails{
+    padding: 10px;
+    width: 60vw;
+}
+.placebutton{
+    height: 3rem;
+    width: 100%;
+    border-radius: 2px;
+    background-color: #1A0B41;
+    color: white;
+    font-size: 1.1rem;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.itemsorder{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px;
+}
